@@ -11,7 +11,6 @@ int silnia(int n){
         return suma_n;
     }
 }
-
 int main() {
     int silnia_n=0;
     silnia_n=silnia(4);
